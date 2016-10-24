@@ -20,7 +20,7 @@ CKEDITOR.config.extraPlugins = 'emojione';
 OR 
 
 ```
-CKEDITOR.replace( 'postleader',
+CKEDITOR.replace( 'editor1',
 {
 	extraPlugins : 'emojione',
 	toolbar :
