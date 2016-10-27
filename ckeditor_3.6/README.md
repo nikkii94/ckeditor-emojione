@@ -26,6 +26,7 @@ CKEDITOR.replace( 'editor1',
 	toolbar :
 	[
 		['Styles','Format','Font','FontSize'],
+		['Emojione'],
 		....
 	]
 });
